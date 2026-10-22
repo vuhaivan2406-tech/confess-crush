@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Thư mời tham gia đại hội speech khu vực 43",
+    titleWeb: "Thư mời tham gia Đại Hội Speech KV43",
     introTitle: 'Gửi người anh em tín hữu',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
