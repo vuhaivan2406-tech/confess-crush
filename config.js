@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'EM SẴN SÀNG RỒIII',
     reply: 'Anh em có muốn gửi gắm gì không ạa <33333333',
     mess: 'Vậy hẹn anh em vào 21h00 thứ 6 ngày 30/10 nhé ạa 😘😘',
-    messDesc: 'Vậy hẹn anh em vào 21h00 thứ 6 ngày 30/10 nhé ạa 😘😘.',
+    messDesc: 'Đại hội mong chờ sự tham gia của anh em ạ 😘😘.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.messenger.com/t/156025504001094/?locale=vi_VN'
 }
