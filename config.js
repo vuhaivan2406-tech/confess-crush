@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Em không nhaa :3',
     question: 'Vậy anh em đã sẵn sàng tham gia chưa ạa <3',
     btnReply: 'EM SẴN SÀNG RỒIII',
-    reply: 'Anh em có muốn gửi gắm gì không ạa <33333333',
+    reply: 'Có tấm lòng em sẽ tham gia, không có tấm lòng em cũng tham gia luôn ạa <33333333',
     mess: 'Vậy hẹn anh em vào 21h00 thứ 6 ngày 30/10 nhé ạa 😘😘',
     messDesc: 'Đại hội mong chờ sự tham gia của anh em ạ 😘😘.',
     btnAccept: 'Okiiiii lun <3',
